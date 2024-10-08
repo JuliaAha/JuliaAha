@@ -12,4 +12,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julialofland@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaAha)
 
-!Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=JuliaAha&color=pink)
