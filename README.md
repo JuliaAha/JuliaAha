@@ -14,4 +14,4 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuliaAha&color=yellow)
 
-<img width="60%" src = "https://tenor.com/ubP6fTPoIAk.gif">
+<img width="20%" src = "https://media1.tenor.com/m/6URuP1_4sp4AAAAC/cat-run-cat-steal.gif">
