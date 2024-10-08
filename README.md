@@ -3,10 +3,10 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <a href="https://github.com/JuliaAha">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JuliaAha&theme=radical">
+      <img width="51%" src="https://github-readme-stats.vercel.app/api?username=JuliaAha&theme=radical">
     </a>
     <a href="https://github.com/JuliaAha">
-      <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=JuliaAha&theme=radical">
+      <img width="51%" src="http://github-readme-streak-stats.herokuapp.com/?user=JuliaAha&theme=radical">
     </a>
   </div>
 
