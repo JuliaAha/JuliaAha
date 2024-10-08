@@ -13,3 +13,5 @@
 [![GitHub](https://img.icons8.com/fluency/48/ffd700/github.png)](https://github.com/JuliaAha)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuliaAha&color=yellow)
+
+<img width="60%" src = "https://tenor.com/ubP6fTPoIAk.gif">
