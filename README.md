@@ -8,6 +8,7 @@
     <a href="https://github.com/JuliaAha">
       <img width="52%" src="http://github-readme-streak-stats.herokuapp.com/?user=JuliaAha&theme=radical">
     </a>
+    <img width="52%" src="https://media1.tenor.com/m/fIoXA2Vcy-4AAAAC/baby-yoda-yoda.gif">
   </div>
 
 
